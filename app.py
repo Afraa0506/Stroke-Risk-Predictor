@@ -56,7 +56,7 @@ st.markdown(
 )
 
 # Add header image
-st.image("https://github.com/Afraa0506/Stroke-Risk-Predictor/blob/main/header.jpg", width=700)
+st.image("header.jpg", width=700)
 
 # Load trained pipeline model
 with open("model.pkl", "rb") as f:
