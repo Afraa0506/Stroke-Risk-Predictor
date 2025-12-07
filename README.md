@@ -86,10 +86,3 @@ This tool is designed for **educational and demonstration purposes only**. It is
 
 <img width="696" height="807" alt="image" src="https://github.com/user-attachments/assets/0299b005-b8dd-4784-b469-fac348edf4e3" />
 
-
-
----
-
-If you want, I can also create a **shorter, Fiverr-friendly version** that you can directly add to your gig page to attract clients.
-
-Do you want me to make that version too?
